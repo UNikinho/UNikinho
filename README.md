@@ -15,5 +15,7 @@
 
 ![Python](    https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 Passionate for technology, i had my first contact with system development in 2021 and thus, i started estudying to be a full-stack developer :)
