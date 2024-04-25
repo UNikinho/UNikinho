@@ -15,3 +15,6 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Python](    https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
+Passionate for technology, i had my first contact with system development in 2021 and thus, i started estudying to be a full-stack developer :)
