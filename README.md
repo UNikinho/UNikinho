@@ -1,9 +1,8 @@
 ### Hello i'm Nikolas Leocio 👨‍💻👋
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikolasleoncio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolas-leoncio-248513263/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikolasleoncio/)
 
-<!-- ![Nikolas GitHub stats](https://github-readme-stats.vercel.app/api?username=UNIkinho&show_icons=true&theme=radical) -->
+![Nikolas GitHub stats](https://github-readme-stats.vercel.app/api?username=UNIkinho&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNikinho&hide_progress=true)
 
